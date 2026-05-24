@@ -1,0 +1,19 @@
+html {
+  background: #f6ead2;
+}
+
+body {
+  min-width: 320px;
+  margin: 0;
+  color: #271f18;
+  font-family:
+    'Trebuchet MS', 'Gill Sans', 'Avenir Next', 'Segoe UI', sans-serif;
+  line-height: 1.5;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  color: inherit;
+}
