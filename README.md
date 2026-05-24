@@ -1,5 +1,7 @@
 # 聚餐账单拆分工具 MVP
 
+**在线体验：[https://meal-splitter.cenghaoyu28.workers.dev/](https://meal-splitter.cenghaoyu28.workers.dev/)**
+
 一个可部署到 Cloudflare Pages 的纯前端 SPA，用于餐厅聚餐后快速录入参与人、菜品、服务费、小费、优惠和抹零，并计算每个人应付金额。
 
 ## 功能
